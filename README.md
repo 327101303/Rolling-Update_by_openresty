@@ -23,3 +23,9 @@ openresty是基于nginx+lua的实现，官网：http://openresty.org/cn/ openres
 * **标准的api实现，方便通过shell或python去调用管理upstream的api**
 * **在生产环境已经使用一年多，稳定性没问题**
 
+## Docs
+
+[基于cookie后端一致性绑定的逻辑]
+
+![image][https://github.com/327101303/Rolling-Update_by_openresty/blob/master/%E5%9F%BA%E4%BA%8Ecookie%E7%94%A8%E6%88%B7%E8%AE%BF%E9%97%AE%E5%90%8E%E7%AB%AF%E4%B8%80%E8%87%B4%E6%80%A7%E7%BB%91%E5%AE%9A/sticky.png]
+
